@@ -6,7 +6,6 @@ Not: Yalnızca Frontend Developer ilanları eklenebilir. Sıralama tarihe göre 
 #### * Frontend İstanbul gönüllü bir organizasyondur. İlan yayınlayan şirketlerden ücret talep etmemektedir.
 
 
-|Tarih      | Şirket        | Pozisyon   | Başvuru Linki / Mail Adresi   | Dil/Teknoloji   |
-|-----------|---------------|------------|-------------------------------|-----------------|
-|24.01.2018 | Lorem ipsum dolor sit  | Sr Frontend Developer   | https://example.com   | Html5, Css3, JavaScript, React, Redux, Webpack |
-| 24.01.2018 | Related Digital | Frontend Javascript Developer | https://goo.gl/sxdQ2u | HTML, CSS, Javascript, Push, GTM |
+|Tarih      | Şirket        | Şehir      | Pozisyon   | Başvuru Linki / Mail Adresi        | Dil/Teknoloji   |
+|-----------|---------------|------------|-------------------------------|-----------------|-----------------|
+| 24.01.2018 | Related Digital | İstanbul | Frontend Javascript Developer | https://goo.gl/sxdQ2u | HTML, CSS, Javascript, Push, GTM |
