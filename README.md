@@ -8,5 +8,6 @@ Not: Yalnızca Frontend Developer ilanları eklenebilir. Sıralama tarihe göre(
 
 |Tarih      | Şirket        | Şehir      | Pozisyon   | Başvuru Linki / Mail Adresi        | Dil/Teknoloji   |
 |-----------|---------------|------------|-------------------------------|-----------------|-----------------|
+| 25.01.2018 | Pisano | İstanbul | Frontend Javascript Developer | https://goo.gl/sMkjUi | HTML, CSS, Javascript |
 | 25.01.2018 | Segmentify | İstanbul | Frontend Javascript Developer | https://goo.gl/oBdVRi | HTML, CSS, Javascript |
 | 24.01.2018 | Related Digital | İstanbul | Frontend Javascript Developer | https://goo.gl/sxdQ2u | HTML, CSS, Javascript, Push, GTM |
