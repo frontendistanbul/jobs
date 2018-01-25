@@ -9,3 +9,4 @@ Not: Yalnızca Frontend Developer ilanları eklenebilir. Sıralama tarihe göre 
 |Tarih      | Şirket        | Şehir      | Pozisyon   | Başvuru Linki / Mail Adresi        | Dil/Teknoloji   |
 |-----------|---------------|------------|-------------------------------|-----------------|-----------------|
 | 24.01.2018 | Related Digital | İstanbul | Frontend Javascript Developer | https://goo.gl/sxdQ2u | HTML, CSS, Javascript, Push, GTM |
+| 25.01.2018 | Segmentify | İstanbul | Frontend Javascript Developer | https://goo.gl/oBdVRi | HTML, CSS, Javascript |
