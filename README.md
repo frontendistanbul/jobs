@@ -10,6 +10,7 @@ Not: Yalnızca Frontend Developer ilanları eklenebilir. Sıralama tarihe göre(
 
 |Tarih      | Şirket        | Şehir      | Pozisyon   | Başvuru Linki / Mail Adresi        | Dil/Teknoloji   |
 |-----------|---------------|------------|-------------------------------|-----------------|-----------------|
+| 30.01.2018 | Emlakjet | İstanbul | Senior Frontend Javascript Developer | https://goo.gl/mXEPDt | HTML, CSS, Javascript, React, Angular |
 | 26.01.2018 | Chainsage | İstanbul | Software Engineer | https://goo.gl/WZE9Ts | JavaScript, Sass, React |
 | 25.01.2018 | Mendix | Rotterdam | Senior Frontend Developer | https://goo.gl/5bFvZC | JavaScript, TypeScript, HTML5, CSS3 |
 | 25.01.2018 | Mendix | Rotterdam | React/MobX Developer | https://goo.gl/4ukrAH | JavaScript, TypeScript, React, MobX |
@@ -17,4 +18,3 @@ Not: Yalnızca Frontend Developer ilanları eklenebilir. Sıralama tarihe göre(
 | 25.01.2018 | Pisano | İstanbul | Frontend Javascript Developer | https://goo.gl/sMkjUi | HTML, CSS, Javascript |
 | 25.01.2018 | Segmentify | İstanbul | Frontend Javascript Developer | https://goo.gl/oBdVRi | HTML, CSS, Javascript |
 | 24.01.2018 | Related Digital | İstanbul | Frontend Javascript Developer | https://goo.gl/sxdQ2u | HTML, CSS, Javascript, Push, GTM |
-| 30.01.2018 | Emlakjet | İstanbul | Senior Frontend Javascript Developer | https://goo.gl/mXEPDt | HTML, CSS, Javascript, React, Angular |
