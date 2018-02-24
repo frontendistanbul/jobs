@@ -10,6 +10,7 @@ Not: Yalnızca Frontend Developer ilanları eklenebilir. Sıralama tarihe göre(
 
 |Tarih      | Şirket        | Şehir      | Pozisyon   | Başvuru Linki / Mail Adresi        | Dil/Teknoloji   |
 |-----------|---------------|------------|-------------------------------|-----------------|-----------------|
+|23.02.2018 | Adesso | İstanbul | Frontend Developer | https://goo.gl/fyM4e7 | React, Redux, ES6, HTML5, Webpack, SASS |
 |21.02.2018 | Trendyol | İstanbul | Senior Frontend Developer | https://goo.gl/FQ4WTg | HTML, CSS, SASS, Javascript, Typescript, Ecmascript6, Angular, Vue, React, Mocha, Chai |
 | 30.01.2018 | Emlakjet | İstanbul | Senior Frontend Javascript Developer | https://goo.gl/mXEPDt | HTML, CSS, Javascript, React, Angular |
 | 26.01.2018 | Chainsage | İstanbul | Software Engineer | https://goo.gl/WZE9Ts | JavaScript, Sass, React |
